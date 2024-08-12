@@ -44,8 +44,16 @@ The best **Never** Give up
 ## Persons of Interest
 
 [Keanu Reeves][1]<br>
-<img src="https://github.com/Jonathan-Ldev/AboutMe2/blob/main/Keanu.webp" height="200px"><br>
+<kbd>
+<img src="https://github.com/Jonathan-Ldev/AboutMe2/blob/main/Keanu.webp" height="200px"></kbd><br>
 [Ryan Reynolds][2]<br>
-<img src="https://github.com/Jonathan-Ldev/AboutMe2/blob/main/Reynolds.jpg" height="200px"><br>
+<kbd>
+<img src="https://github.com/Jonathan-Ldev/AboutMe2/blob/main/Reynolds.jpg" height="200px"></kbd><br>
 [Gordon Ramsey][3]<br>
-<img src="https://github.com/Jonathan-Ldev/AboutMe2/blob/main/Gordon_Ramsay.jpg" height="200px">
+<kbd>
+<img src="https://github.com/Jonathan-Ldev/AboutMe2/blob/main/Gordon_Ramsay.jpg" height="200px"></kbd><br>
+
+|Favorite Terms| Definitions | My Meaning |
+|:-|:----:| ---:|
+|Befuddled| Shocked and Confused | Utterly confused and stunned |
+
